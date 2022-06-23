@@ -1,0 +1,10 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    text-align: justify;
+}
+
+#title, #Chicken, #Beef, #Sushi {
+    margin-bottom: 2rem;
+    padding: 2rem;
+}
